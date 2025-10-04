@@ -41,7 +41,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Full-Stack Development
-![MERN](https://img.shields.io/badge/MERN-Stack-4C8BF5?style=for-the-badge) ![React](https://img.shields.io/badge/React.js-20232A?logo=react&logoColor=61DAFB&style=for-the-badge) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge) ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![MERN](https://img.shields.io/badge/MERN-Stack-4C8BF5?style=for-the-badge) ![React](https://img.shields.io/badge/React.js-20232A?logo=react&logoColor=61DAFB&style=for-the-badge) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge) ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge) 
 
 ### 🧠 Programming Languages
 `Java (DSA)` • `Python` • `C` • `C++`
