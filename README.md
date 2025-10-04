@@ -1,12 +1,4 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#4C8BF5;">Syed Farhan Ali</span></h1>
 
-<p align="center">
-  📍 Ujjain, Madhya Pradesh • 📱 7000569099 • ✉️ syedfarhanali012005@gmail.com  
-  <br>
-  <a href="#">🌐 LinkedIn</a> • <a href="#">💻 GitHub</a>
-</p>
-
----
 
 ## 🚀 About Me
 
@@ -16,19 +8,11 @@
 
 ---
 
-## 🧠 Professional Snapshot
-
-- 🧩 Strong understanding of **full-stack web development** using the MERN stack.  
-- 🛠️ Hands-on experience building large-scale projects like an **Airbnb Clone**.  
-- 📚 Academic background in **core CS fundamentals** like Data Structures, OOP, DBMS, OS, and Software Engineering.  
-- 🤝 Excellent **team collaboration**, **problem-solving**, and **time management** skills.
-
----
 
 ## 🏫 Education
 
 🎓 **Bachelor of Computer Applications (BCA)**  
-*Institute of Computer Science, VIKRAM University — Ujjain, Madhya Pradesh*  
+*Institute of Computer Science, VIKRAM University - Ujjain, Madhya Pradesh*  
 📅 **Expected Graduation:** August 2026  
 📊 **CGPA:** 7+
 
