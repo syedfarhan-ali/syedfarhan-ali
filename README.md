@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-🎓 I'm a **BCA student** with a strong foundation in **MERN Stack Development** and **Java Data Structures & Algorithms**.  
+🎓 I'm a **BCA 3rd year student** with a strong foundation in **MERN Stack Development** and **Java Data Structures & Algorithms**.  
 💡 I love building **full-stack web applications**, solving problems, and continuously learning new technologies.  
 🌱 Currently, I’m actively looking for **Internships or Junior Developer roles** where I can contribute to impactful projects.
 
