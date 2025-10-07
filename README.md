@@ -18,7 +18,7 @@
 
 **Relevant Coursework:**  
 `Data Structures` • `Object-Oriented Programming` • `Database Management Systems` •  
-`Web Development` • `Operating Systems` • `Software Engineering`
+`Computer Networks` • `Operating Systems` • `Software Engineering`
 
 ---
 
