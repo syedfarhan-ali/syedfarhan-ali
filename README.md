@@ -22,7 +22,7 @@
 🎓 **Bachelor of Computer Applications (BCA)**  
 *Institute of Computer Science, VIKRAM University - Ujjain, Madhya Pradesh*  
 📅 **Expected Graduation:** August 2026  
-📊 **CGPA:** 7+
+📊 **CGPA:** 7.55
 
 **Relevant Coursework:**  
 `Data Structures` • `Object-Oriented Programming` • `Database Management Systems` •  
