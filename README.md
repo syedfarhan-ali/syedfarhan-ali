@@ -15,7 +15,7 @@
 |----------|--------------|-------------|------|
 | 👨🏻‍🎓 **Portfolio** | A simple and easy portfolio made using html/css. | HTML, CSS | [🌐 Live Demo](https://syedfarhan-ali.github.io) |
 
-### 🌐 [Portfolio](https://github.com/syedfarhan-ali.github.io)
+### 🌐 [Portfolio](https://github.com/syedfarhan-ali/syedfarhan-ali.github.io)
 **Tech Stack:** HTML | CSS  
 
 A simple and easy portfolio made using html/css.
@@ -25,7 +25,7 @@ A simple and easy portfolio made using html/css.
 - 🎯 Straigt to point  
 - ℹ️ Info about me 
 
-👉 **[Live Demo](https://syedfarhan-ali.github.io)** | [GitHub Repo](https://github.com/syedfarhan-ali.github.io)
+👉 **[Live Demo](https://syedfarhan-ali.github.io)** | [GitHub Repo](https://github.com/syedfarhan-ali/syedfarhan-ali.github.io)
 
 ---
 
