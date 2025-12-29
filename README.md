@@ -25,7 +25,7 @@ A simple and easy portfolio made using html/css.
 - 🎯 Straigt to point  
 - ℹ️ Info about me 
 
-👉 **[Live Demo](https://syedfarhan-ali.github.io))** | [GitHub Repo](https://github.com/syedfarhan-ali.github.io)
+👉 **[Live Demo](https://syedfarhan-ali.github.io)** | [GitHub Repo](https://github.com/syedfarhan-ali.github.io)
 
 ---
 
