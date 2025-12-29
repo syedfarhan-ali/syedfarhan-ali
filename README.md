@@ -11,12 +11,28 @@
 
 ---
 ## 💼 Work Sample
+| Project | Description | Tech Stack | Demo |
+|----------|--------------|-------------|------|
+| 👨🏻‍🎓 **Portfolio** | A simple and easy portfolio made using html/css. | HTML, CSS | [🌐 Live Demo](https://syedfarhan-ali.github.io) |
+
+### 🌐 [Portfolio](https://github.com/syedfarhan-ali.github.io)
+**Tech Stack:** HTML | CSS  
+
+A simple and easy portfolio made using html/css.
+
+**Key Highlights:**
+- ⬜ Simplistic  
+- 🎯 Straigt to point  
+- ℹ️ Info about me 
+
+👉 **[Live Demo](https://syedfarhan-ali.github.io))** | [GitHub Repo](https://github.com/syedfarhan-ali.github.io)
+
+---
 
 | Project | Description | Tech Stack | Demo |
 |----------|--------------|-------------|------|
 | 🏨 **Hotel Booking App** | A modern full-stack hotel booking platform where users can explore, book, and manage hotels with real-time updates and authentication. | MERN (MongoDB, Express, React, Node.js) | [🌐 Live Demo](https://majorproject-cp9a.onrender.com/listings) |
 
-## 💼 Work Sample
 
 ### 🌐 [Hotel Booking Web Application](https://majorproject-cp9a.onrender.com/listings)
 **Tech Stack:** MongoDB | Express.js | React | Node.js  
