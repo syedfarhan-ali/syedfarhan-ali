@@ -13,19 +13,33 @@
 ## 💼 Work Sample
 | Project | Description | Tech Stack | Demo |
 |----------|--------------|-------------|------|
-| 👨🏻‍🎓 **Portfolio** | A simple and easy portfolio made using html/css. | HTML, CSS | [🌐 Live Demo](https://syedfarhan-ali.github.io) |
+| 📈 **Herodha** | A stock trading dashboard inspired by Zerodha where users can view stock positions, track performance, and visualize data with interactive charts. | MERN (MongoDB, Express, React, Node.js, Chart.js) | [🌐 Live Demo](https://herodha-zerodhaclone.onrender.com) |
 
-### 🌐 [Portfolio](https://github.com/syedfarhan-ali/syedfarhan-ali.github.io)
-**Tech Stack:** HTML | CSS  
 
-A simple and easy portfolio made using html/css.
+### 🌐 [Herodha – Stock Dashboard Web App](https://herodha-zerodhaclone.onrender.com)
+**Tech Stack:** MongoDB | Express.js | React | Node.js | Chart.js
+
+A modern stock trading dashboard inspired by Zerodha that allows users to track their stock portfolio, analyze performance, and visualize market trends using interactive charts.  
 
 **Key Highlights:**
-- ⬜ Simplistic  
-- 🎯 Straigt to point  
-- ℹ️ Info about me 
+- 📊 Interactive Charts using Chart.js for data visualization
+- 💼 Portfolio Dashboard to display stock positions and performance
+- 📈 Real-time-like UI inspired by Zerodha's clean design  
+- 🔄 Dynamic Data Rendering for stock updates
+- 🧩 Component-based Architecture with React
+- ⚡ Fast & Responsive UI
 
-👉 **[Live Demo](https://syedfarhan-ali.github.io)** | [GitHub Repo](https://github.com/syedfarhan-ali/syedfarhan-ali.github.io)
+**🛠️ Features:**
+- 📃 View all stock holdings with details like:
+- Quantity
+- Average price
+- Current price
+- Profit/Loss
+- 📉 Visual representation of stock performance
+- 🔍 Clean and minimal dashboard UI
+- 📱 Fully responsive design
+
+👉 **[Live Demo](https://herodha-zerodhaclone.onrender.com/)** | [GitHub Repo](https://github.com/syedfarhan-ali/Herodha-ZerodhaClone)
 
 ---
 
@@ -46,6 +60,23 @@ A hotel booking platform allowing users to browse, book, and manage hotel listin
 - 📱 Fully responsive design  
 
 👉 **[Live Demo](https://majorproject-cp9a.onrender.com/listings)** | [GitHub Repo](https://github.com/syedfarhan-ali/MajorProject)
+
+---
+| Project | Description | Tech Stack | Demo |
+|----------|--------------|-------------|------|
+| 👨🏻‍🎓 **Portfolio** | A simple and easy portfolio made using html/css. | HTML, CSS | [🌐 Live Demo](https://syedfarhan-ali.github.io) |
+
+### 🌐 [Portfolio](https://github.com/syedfarhan-ali/syedfarhan-ali.github.io)
+**Tech Stack:** HTML | CSS  
+
+A simple and easy portfolio made using html/css.
+
+**Key Highlights:**
+- ⬜ Simplistic  
+- 🎯 Straigt to point  
+- ℹ️ Info about me 
+
+👉 **[Live Demo](https://syedfarhan-ali.github.io)** | [GitHub Repo](https://github.com/syedfarhan-ali/syedfarhan-ali.github.io)
 
 ---
 ## 🚀 About Me
