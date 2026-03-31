@@ -13,10 +13,10 @@
 ## 💼 Work Sample
 | Project | Description | Tech Stack | Demo |
 |----------|--------------|-------------|------|
-| 📈 **Herodha** | A stock trading dashboard inspired by Zerodha where users can view stock positions, track performance, and visualize data with interactive charts. | MERN (MongoDB, Express, React, Node.js, Chart.js) | [🌐 Live Demo](https://herodha-zerodhaclone.onrender.com) |
+| 📈 **Herodha** | A stock trading dashboard inspired by Zerodha where users can view stock positions, track performance, and visualize data with interactive charts. | MERN (MongoDB, Express, React, Node.js, Chart.js) | [🌐 Live Demo](https://herodha-zerodha-clone.vercel.app) |
 
 
-### 🌐 [Herodha – Stock Dashboard Web App](https://herodha-zerodhaclone.onrender.com)
+### 🌐 [Herodha – Stock Dashboard Web App](https://herodha-zerodha-clone.vercel.app)
 **Tech Stack:** MongoDB | Express.js | React | Node.js | Chart.js
 
 A modern stock trading dashboard inspired by Zerodha that allows users to track their stock portfolio, analyze performance, and visualize market trends using interactive charts.  
@@ -39,7 +39,7 @@ A modern stock trading dashboard inspired by Zerodha that allows users to track 
 - 🔍 Clean and minimal dashboard UI
 - 📱 Fully responsive design
 
-👉 **[Live Demo](https://herodha-zerodhaclone.onrender.com/)** | [GitHub Repo](https://github.com/syedfarhan-ali/Herodha-ZerodhaClone)
+👉 **[Live Demo](https://herodha-zerodha-clone.vercel.app/)** | [GitHub Repo](https://github.com/syedfarhan-ali/Herodha-ZerodhaClone)
 
 ---
 
