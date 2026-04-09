@@ -45,10 +45,10 @@ A modern stock trading dashboard inspired by Zerodha that allows users to track 
 
 | Project | Description | Tech Stack | Demo |
 |----------|--------------|-------------|------|
-| 🏨 **Hotel Booking App** | A modern full-stack hotel booking platform where users can explore, book, and manage hotels with real-time updates and authentication. | MERN (MongoDB, Express, React, Node.js) | [🌐 Live Demo](https://majorproject-cp9a.onrender.com/listings) |
+| 🏨 **Hotel Booking App** | A modern full-stack hotel booking platform where users can explore, book, and manage hotels with real-time updates and authentication. | MERN (MongoDB, Express, React, Node.js) | [🌐 Live Demo](https://roomora-gray.vercel.app/listings) |
 
 
-### 🌐 [Hotel Booking Web Application](https://majorproject-cp9a.onrender.com/listings)
+### 🌐 [Hotel Booking Web Application](https://roomora-gray.vercel.app/listings)
 **Tech Stack:** MongoDB | Express.js | React | Node.js  
 
 A hotel booking platform allowing users to browse, book, and manage hotel listings with authentication and image uploads.  
@@ -59,7 +59,7 @@ A hotel booking platform allowing users to browse, book, and manage hotel listin
 - 🏨 CRUD operations for listings  
 - 📱 Fully responsive design  
 
-👉 **[Live Demo](https://majorproject-cp9a.onrender.com/listings)** | [GitHub Repo](https://github.com/syedfarhan-ali/MajorProject)
+👉 **[Live Demo](https://roomora-gray.vercel.app/listings)** | [GitHub Repo](https://github.com/syedfarhan-ali/MajorProject)
 
 ---
 | Project | Description | Tech Stack | Demo |
